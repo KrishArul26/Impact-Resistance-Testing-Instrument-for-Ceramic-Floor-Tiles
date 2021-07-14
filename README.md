@@ -24,4 +24,8 @@
   
 <h3 align="left">Discussion</h3>
 <h4 align="left">This test evaluates the performance of ceramic tile which is exhibited as cracks, shivering, and provide information of tile durability. Moreover, This test is recommended for tiles to be used in floors where impact resistance is considered.</h4>
- 
+
+<p align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/74568334/125690000-591640ae-aa6d-46a8-878d-2e604f35edad.jpg">
+</p> 
+<h4 align="left">Sound module would be interrupted by actory envirmental noise, </h4>
