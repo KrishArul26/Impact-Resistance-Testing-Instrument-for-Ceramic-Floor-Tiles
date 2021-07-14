@@ -1,0 +1,81 @@
+#include <LiquidCrystal.h> 
+int led = 13;
+int switch1 = 6;
+int threshold = 250; 
+int volume;
+int interruptPin=2;
+int countt=0; 
+float e=0; 
+int x=0; 
+LiquidCrystal lcd(12, 11, 5, 4, 3, 8);
+//int start = 7;20
+boolean need;
+void setup() {
+ // put your setup code here, to run once:
+ pinMode(interruptPin, INPUT_PULLUP);
+ pinMode(switch1, INPUT);
+ Serial.begin(9600); 
+ lcd.begin(16, 2);
+ lcd.clear(); 
+ lcd.print("Experiment"); 
+ pinMode(led, OUTPUT); 
+ attachInterrupt(digitalPinToInterrupt(interruptPin), impact, RISING);
+ 
+ Serial.print("Start");
+need=true;
+ x=0;
+// pinMode(start, INPUT);
+}
+void loop() {
+ // put your main code here, to run repeatedly:
+ delay(30);
+ countt=countt+30;
+ //attachInterrupt(digitalPinToInterrupt(interruptPin), impact, CHANGE);
+// interrupts();21
+ //detachInterrupt(digitalPinToInterrupt(interruptPin));
+ if (digitalRead(switch1)){
+ need=~need;
+ lcd.clear(); 
+ lcd.print("Experiment"); 
+ }
+ digitalWrite(led, LOW); 
+ 
+}
+void impact(){
+// detachInterrupt(digitalPinToInterrupt(interruptPin));
+// noInterrupts();
+// delay(1000);
+if((countt>100 || x==0) && need){
+ if (x<2)
+{
+ x=x+1;
+ digitalWrite(led, HIGH); 
+Serial.println(x);
+ if(x==1){
+ digitalWrite(led, HIGH); 
+ countt=0;
+// delay(1000);
+// countt=countt+1000; 22
+ }
+ else if(x==2){
+ //digitalWrite(led, HIGH); 
+ 
+ e=(1.11*countt)/1000;
+ 
+ // delay(1000);
+ // countt=countt+1000;
+ lcd.clear();
+ lcd.setCursor(0, 0);
+ lcd.print("Experiment"); 
+ lcd.setCursor(0, 1);
+ lcd.print(String("Co of Res: ")+String(e));
+ Serial.println("Co of Res :");
+ Serial.println(e);
+ 
+ countt=0;
+ x=0;
+ need =false; 
+ }
+ }
+ }
+ } 
