@@ -9,8 +9,11 @@
   <img width="500" src="https://user-images.githubusercontent.com/74568334/125686539-d57830b5-cd8c-4b1c-bbcb-ff607b73ad74.png">
 </p> 
 
-  <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123372390-bfc93a00-d583-11eb-8a47-0a8d2b93613c.jpg">
-  <img width="400" src="https://user-images.githubusercontent.com/74568334/123372387-be980d00-d583-11eb-9abb-f732651f7fd2.jpg">
+<h2 align="center"> Results</h2>
+  <p align="left">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/125688007-e6944c6c-c555-4978-9287-7ce66bc19df8.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/125688009-09af4b99-5fe9-49e4-aab5-edebe85c89d1.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/125688011-af767a1d-215c-4bda-b3da-443a3a1252a4.jpg">
+  <img width="400" src="https://user-images.githubusercontent.com/74568334/125688005-eed626a6-0194-4351-980a-7b17d1544423.jpg">
   
 </p> 
