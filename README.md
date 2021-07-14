@@ -28,4 +28,4 @@
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/125690000-591640ae-aa6d-46a8-878d-2e604f35edad.jpg">
 </p> 
-<h4 align="left">Sound module would be interrupted by actory envirmental noise, </h4>
+<h4 align="left">Sound module would be interrupted by factory envirmental noise</h4>
