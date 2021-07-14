@@ -9,7 +9,10 @@
   <img width="500" src="https://user-images.githubusercontent.com/74568334/125686539-d57830b5-cd8c-4b1c-bbcb-ff607b73ad74.png">
 </p> 
 
-<h2 align="center"> Results</h2>
+<h2 align="left"> Results</h2>
+<h2 align="left"> e=0 Its mean that there was no elastic shock
+e=1 Its mean that all the initial potential energy had been transformed into kinetic energy after impact, without any losses by friction with air or by shock</h2> 
+
   <p align="left">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/125688007-e6944c6c-c555-4978-9287-7ce66bc19df8.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/125688009-09af4b99-5fe9-49e4-aab5-edebe85c89d1.jpg">
