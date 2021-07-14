@@ -22,5 +22,6 @@
   
 </p> 
   
-<h3 align="left">Introduction</h3>
+<h3 align="left">Discussion</h3>
+<h4 align="left">This test evaluates the performance of ceramic tile which is exhibited as cracks, shivering, and provide information of tile durability. Moreover, This test is recommended for tiles to be used in floors where impact resistance is considered.</h4>
  
