@@ -9,9 +9,9 @@
   <img width="500" src="https://user-images.githubusercontent.com/74568334/125686539-d57830b5-cd8c-4b1c-bbcb-ff607b73ad74.png">
 </p> 
 
-<h2 align="left"> Results</h2>
-<h2 align="left"> e=0 Its mean that there was no elastic shock</h2>
-<h2 align="left"> e=1 Its mean that all the initial potential energy had been transformed into kinetic energy after impact, without any losses by friction with air or by shock</h2>
+<h3 align="left"> Results</h3>
+<h3 align="left"> e=0 Its mean that there was no elastic shock</h3>
+<h3 align="left"> e=1 Its mean that all the initial potential energy had been transformed into kinetic energy after impact, without any losses by friction with air or by shock</h3>
  
 
   <p align="left">
@@ -21,3 +21,6 @@
   <img width="400" src="https://user-images.githubusercontent.com/74568334/125688005-eed626a6-0194-4351-980a-7b17d1544423.jpg">
   
 </p> 
+  
+<h3 align="left">Introduction</h3>
+ 
