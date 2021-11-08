@@ -14,8 +14,9 @@
 
 <h3 align="left"> Results</h3>
 
-<p style= 'text-align: justify;'> 
+ <p style= 'text-align: justify;'> 
   1. e=0 Its mean that there was no elastic shock
+  
   2. e=1 Its mean that all the initial potential energy had been transformed into kinetic energy after impact, without any losses by friction with air or by shock
 </p>
 
