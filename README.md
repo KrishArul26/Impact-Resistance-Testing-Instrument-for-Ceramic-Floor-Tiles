@@ -1,6 +1,6 @@
 <h2 align="center"> Impact-Resistance-Testing-Instrument-for-Ceramic-Floor-Tiles</h2>
 
-<h3 align="left">Introduction
+<h3 align="left">Introduction</h3>
   
  <p style= 'text-align: justify;'> Impact resistance properties of tiles are important properties to be identified, for that purpose the attack test instrument was fabricated according to ISO 10545-5 standard and Sri Lanka industry specifications. Furthermore, this impact resistance can be measured by the coefficient of readjustment ‘e’ and calculated by the departure speed divided by the relative speed of the approach.</p>
   
