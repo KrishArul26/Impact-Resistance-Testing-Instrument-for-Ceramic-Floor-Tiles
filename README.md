@@ -1,6 +1,9 @@
 <h2 align="center"> Impact-Resistance-Testing-Instrument-for-Ceramic-Floor-Tiles</h2>
+
 <h3 align="left">Introduction
-  <h3 align="left">Impact resistance properties of tiles are important properties to be identified, for that purpose the attack test instrument was fabricated according to ISO 10545-5 standard and Sri Lanka industry specifications. Furthermore, this impact resistance can be measured by the coefficient of readjustment ‘e’ and calculated by the departure speed divided by the relative speed of the approach. </h3>
+  
+ <p style= 'text-align: justify;'> Impact resistance properties of tiles are important properties to be identified, for that purpose the attack test instrument was fabricated according to ISO 10545-5 standard and Sri Lanka industry specifications. Furthermore, this impact resistance can be measured by the coefficient of readjustment ‘e’ and calculated by the departure speed divided by the relative speed of the approach.</p>
+  
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/125685904-4ec2508c-6c78-41f3-ab21-8ad0dc2b5c34.png">
 </p>
@@ -23,7 +26,8 @@
 </p> 
   
 <h3 align="left">Discussion</h3>
-<h4 align="left">This test evaluates the performance of ceramic tile which is exhibited as cracks, shivering, and provide information of tile durability. Moreover, This test is recommended for tiles to be used in floors where impact resistance is considered.</h4>
+ 
+ <p style= 'text-align: justify;'> This test evaluates the performance of ceramic tile which is exhibited as cracks, shivering, and provide information of tile durability. Moreover, This test is recommended for tiles to be used in floors where impact resistance is considered.</p>
 
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/74568334/125690000-591640ae-aa6d-46a8-878d-2e604f35edad.jpg">
