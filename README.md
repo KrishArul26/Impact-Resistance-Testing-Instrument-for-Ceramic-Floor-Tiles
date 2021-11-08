@@ -13,11 +13,13 @@
 </p> 
 
 <h3 align="left"> Results</h3>
-<h3 align="left"> e=0 Its mean that there was no elastic shock</h3>
-<h3 align="left"> e=1 Its mean that all the initial potential energy had been transformed into kinetic energy after impact, without any losses by friction with air or by shock</h3>
- 
 
-  <p align="left">
+<p style= 'text-align: justify;'> 
+  1. e=0 Its mean that there was no elastic shock
+  2. e=1 Its mean that all the initial potential energy had been transformed into kinetic energy after impact, without any losses by friction with air or by shock
+</p>
+
+ <p align="left">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/125688007-e6944c6c-c555-4978-9287-7ce66bc19df8.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/125688009-09af4b99-5fe9-49e4-aab5-edebe85c89d1.jpg">
   <img width="400" src="https://user-images.githubusercontent.com/74568334/125688011-af767a1d-215c-4bda-b3da-443a3a1252a4.jpg">
